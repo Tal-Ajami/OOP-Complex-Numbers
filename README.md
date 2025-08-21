@@ -19,6 +19,10 @@ It demonstrates **encapsulation**, **constructors**, and **basic operations** on
 
 ---
 
+## Screenshot
+![Program Output](screenshot.png)
+
+---
 ## Example Usage
 ```cpp
 #include "Complex.h"
